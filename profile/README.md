@@ -24,6 +24,6 @@ King Nads is an evolving NFT ecosystem where each NFT adapts and grows based on 
 ## Team 👨‍💻
 Build with ❤️ by the KingNads team:
 
-[@Veenoway](https://github.com/Veenoway)
-[@jfkz](https://github.com/jfkz)
-[@morad04](https://github.com/morad04)
+[@Veenoway](https://github.com/Veenoway) Frontend & UI/UX Design
+[@jfkz](https://github.com/jfkz) Smart contract 
+[@morad04](https://github.com/morad04) NFT Generation & Design
