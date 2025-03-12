@@ -1,7 +1,11 @@
 # KingNads NFT Project 👑
 
-Welcome to the KingNads NFT source code page.
+![logo](https://raw.githubusercontent.com/monad-im/monad-im-ui/refs/heads/main/frontend/public/kingnadslogo.png)
 
+[![KingNads](https://img.shields.io/badge/KingNads-NFT-blue)](https://kingnad.xyz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/monkingnads?style=social)](https://twitter.com/monkingnads)
+
+Welcome to the KingNads NFT source code page.
 ## About the Project ℹ️
 King Nads is an evolving NFT ecosystem where each NFT adapts and grows based on your experience on the platform. As you interact, your NFT advances through different tiers—much like Bronze, Silver, Gold, etc.—reflecting your progress and achievements.
 
