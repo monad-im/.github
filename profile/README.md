@@ -1,12 +1,25 @@
-## Hi there 👋
+# KingNads NFT Project 👑
 
-<!--
+Welcome to the KingNads NFT source code page.
 
-**Here are some ideas to get you started:**
+## About the Project ℹ️
+King Nads is an evolving NFT ecosystem where each NFT adapts and grows based on your experience on the platform. As you interact, your NFT advances through different tiers—much like Bronze, Silver, Gold, etc.—reflecting your progress and achievements.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Source Code contains 📁
+
+- [Core Smart Contracts](https://github.com/monad-im/monad-im-nft) - Solidity contracts powering the KingNads NFT
+- [Front-end Application](https://github.com/monad-im/monad-im-ui) - React-based dApp for minting and viewing NFTs
+- [Artwork Generation Tool](https://github.com/monad-im/monad-im-assets) - Python scripts for procedural NFT artwork creation
+
+# Additional links 🌐
+
+- [Website / Dashboard](https://kingnad.xyz)
+- [Deployed contract](https://testnet.monadexplorer.com/token/0xd4F3ACBf68c078101E4E3a771697b2c21f5568E9)
+- [Twitter](https://x.com/monkingnads)
+
+## Team 👨‍💻
+Build with ❤️ by the KingNads team:
+
+[@Veenoway](https://github.com/Veenoway)
+[@jfkz](https://github.com/jfkz)
+[@morad04](https://github.com/morad04)
